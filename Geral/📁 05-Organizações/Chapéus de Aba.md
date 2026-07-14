@@ -1,0 +1,1 @@
+[[Chapéus de Aba]] - são uma organização criminosa, uma seita pagã contra a igreja e o estado, com aparência exclusiva, escondendo sua identidade e se especula que a quantidade de olhos na roupa representa a hierarquia. São 6 figuras principais de chapéu de aba, que se dividem em sub organizações, uma delas é "Os Xamãs". Os Xamãs tem um cajado, com um formato de olho nas pontas.

@@ -1,0 +1,1 @@
+Uma pedra dessa foi encontrada na [[Igreja de Brumavale]], servindo como prova contra o [[Padre de Brumavale]].

@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "d9409ba41d752947",
+    "type": "split",
+    "children": [
+      {
+        "id": "13aac2960bea684e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5202559aefb9549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geral/A muito e muito tempo em um mundo de Dungeons e Dragões.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A muito e muito tempo em um mundo de Dungeons e Dragões"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1233feda118c4c1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d76f0cf60c584924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3afef67eaaeb0d89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "11429f2cd9b21c08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "695c6f3a68a05aa2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "67ae6b2f32477ae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d0d64b3f5a167c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e725c83f60fcbac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geral/Organizações/Sem título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Sem título"
+            }
+          },
+          {
+            "id": "65dcf1e3437cea74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A muito e muito tempo em um mundo de Dungeons e Dragões....md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para A muito e muito tempo em um mundo de Dungeons e Dragões..."
+            }
+          },
+          {
+            "id": "2105feb63a37cd07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "30de33e6a31e1d27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "7d802b0b766f1995",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A muito e muito tempo em um mundo de Dungeons e Dragões....md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de A muito e muito tempo em um mundo de Dungeons e Dragões..."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "b5202559aefb9549",
+  "lastOpenFiles": [
+    "Geral/📁 06-Lore/Palantyr.md",
+    "Geral/A muito e muito tempo em um mundo de Dungeons e Dragões.md",
+    "Geral/📁 05-Organizações/Guilda de Ladrões.md",
+    "Geral/📁 01-Personagens/📁 01.1 - Classes/Artificer.md",
+    "Geral/📁 01-Personagens/📁 01.2 - NPCs/Ballin.md",
+    "Geral/📁 04-Itens/Sending Stone.md",
+    "Geral/📁 03-Lugares/Wolfenberg.md",
+    "Geral/📁 04-Itens/Relíquia Misteriosa.md",
+    "Geral/📁 04-Itens/Anel Do Poder.md",
+    "Geral/📁 05-Organizações/Fé dos Sete.md",
+    "Geral/📁 02-Criaturas/Ghoul.md",
+    "Geral/📁 06-Lore/Páginas Rasgadas.md",
+    "Geral/📁 03-Lugares/Biblioteca de Tavrobel.md",
+    "Geral/📁 04-Itens/Draco.md",
+    "Geral/📁 03-Lugares/Tavrobel.md",
+    "Geral/📁 01-Personagens/📁 01.2 - NPCs/Remy Lebeau.md",
+    "Geral/📁 06-Lore/Idioma Estranho.md",
+    "Geral/📁 01-Personagens/📁 01.1 - Classes/Warlock.md",
+    "Geral/📁 01-Personagens/📁 01.1 - Classes/Aasimar.md",
+    "Geral/📁 03-Lugares/Igreja de Brumavale.md",
+    "Geral/📁 02-Criaturas/Gato Preto com Olhos Dourados.md",
+    "Geral/📁 07-Magias/Detect Magic.md",
+    "Geral/📁 07-Magias",
+    "Geral/📁 01-Personagens/📁 01.2 - NPCs",
+    "Geral/📁 01-Personagens/📁 01.1 - Classes/Sem título",
+    "Geral/📁 01-Personagens/Zaman.md",
+    "Geral/📁 01-Personagens/Siivet.md",
+    "Geral/📁 01-Personagens/Pesky.md",
+    "Geral/📁 01-Personagens/Demétrius.md",
+    "Geral/📁 01-Personagens/📁 01.1 - Classes",
+    "Geral/📁 06-Lore",
+    "Geral/📁 05-Organizações",
+    "Geral/📁 04-Itens",
+    "Geral/📁 03-Lugares",
+    "Geral/📁 02-Criaturas",
+    "Geral/📁 01-Personagens"
+  ]
+}

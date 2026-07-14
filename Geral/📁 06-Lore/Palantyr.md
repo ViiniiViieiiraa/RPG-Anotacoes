@@ -1,0 +1,1 @@
+Organizações ou Lore ?

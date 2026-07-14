@@ -1,0 +1,1 @@
+[[Illunthar]] é um personagem que é um dragão da classe [[Drakewarden]]

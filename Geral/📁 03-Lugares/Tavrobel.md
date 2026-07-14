@@ -1,0 +1,1 @@
+Onde encontramos [[Remy Lebeau]] (em uma taverna suja e mal arrumada) que é o informante que procurávamos e amigo de [[Guiol]].
