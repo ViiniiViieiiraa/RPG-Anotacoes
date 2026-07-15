@@ -1,0 +1,1 @@
+O símbolo de [[Bane]] estava na visão da catedral — com uma mão segurando a luz emitindo feixes que representam [[Bane]] e seus 7 servos esquecidos como forma de estatuas destruídas.

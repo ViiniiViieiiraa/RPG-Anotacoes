@@ -1,1 +1,1 @@
-Uma pedra dessa foi encontrada na [[Igreja de Brumavale]], servindo como prova contra o [[Padre de Brumavale]].
+Uma pedra dessa foi encontrada na [[Igreja da Fé dos Sete em Brumavale]], servindo como prova contra o [[Padre de Brumavale]].

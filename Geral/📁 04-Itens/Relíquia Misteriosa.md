@@ -1,0 +1,1 @@
+Relíquia usada por um dos [[Chapéus de Aba]] para roubar o poder do [[Anel Do Poder]] na carroça em [[Brumavale]] .

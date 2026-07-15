@@ -1,0 +1,1 @@
+Acho que é o "mundo do rpg" o mapa onde estamos, como se fosse o "país" talvez.

@@ -20,6 +20,48 @@
               "icon": "lucide-file",
               "title": "A muito e muito tempo em um mundo de Dungeons e Dragões"
             }
+          },
+          {
+            "id": "a7e63094f76bddba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geral/📁 06-Lore/7 Pecados Capitais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 Pecados Capitais"
+            }
+          },
+          {
+            "id": "8baad4568f71322c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geral/📁 06-Lore/Bane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bane"
+            }
+          },
+          {
+            "id": "847d487a5f84aa3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geral/📁 05-Organizações/Fé dos Sete.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fé dos Sete"
+            }
           }
         ]
       }
@@ -78,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 253.5
   },
   "right": {
     "id": "67ae6b2f32477ae3",
@@ -185,41 +227,41 @@
   },
   "active": "b5202559aefb9549",
   "lastOpenFiles": [
-    "Geral/📁 06-Lore/Palantyr.md",
+    "Geral/📁 06-Lore/7 Pecados Capitais.md",
     "Geral/A muito e muito tempo em um mundo de Dungeons e Dragões.md",
-    "Geral/📁 05-Organizações/Guilda de Ladrões.md",
-    "Geral/📁 01-Personagens/📁 01.1 - Classes/Artificer.md",
-    "Geral/📁 01-Personagens/📁 01.2 - NPCs/Ballin.md",
-    "Geral/📁 04-Itens/Sending Stone.md",
-    "Geral/📁 03-Lugares/Wolfenberg.md",
-    "Geral/📁 04-Itens/Relíquia Misteriosa.md",
-    "Geral/📁 04-Itens/Anel Do Poder.md",
+    "Geral/📁 06-Lore/Bane.md",
     "Geral/📁 05-Organizações/Fé dos Sete.md",
-    "Geral/📁 02-Criaturas/Ghoul.md",
-    "Geral/📁 06-Lore/Páginas Rasgadas.md",
-    "Geral/📁 03-Lugares/Biblioteca de Tavrobel.md",
-    "Geral/📁 04-Itens/Draco.md",
-    "Geral/📁 03-Lugares/Tavrobel.md",
-    "Geral/📁 01-Personagens/📁 01.2 - NPCs/Remy Lebeau.md",
-    "Geral/📁 06-Lore/Idioma Estranho.md",
-    "Geral/📁 01-Personagens/📁 01.1 - Classes/Warlock.md",
-    "Geral/📁 01-Personagens/📁 01.1 - Classes/Aasimar.md",
-    "Geral/📁 03-Lugares/Igreja de Brumavale.md",
-    "Geral/📁 02-Criaturas/Gato Preto com Olhos Dourados.md",
-    "Geral/📁 07-Magias/Detect Magic.md",
+    "Geral/📁 03-Lugares/Igreja da Fé dos Sete em Brumavale.md",
+    "Geral/📁 01-Personagens/📁 01.2 - NPCs/John.md",
+    "Geral/📁 01-Personagens/📁 01.2 - NPCs/Padre de Brumavale.md",
+    "Geral/📁 03-Lugares/Igreja da Fé dos Sete em Wolfenberg.md",
+    "Geral/📁 03-Lugares/Essos.md",
+    "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/Nine Hell's.md",
+    "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/O Abissal.md",
+    "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/Plano Mortal.md",
+    "Geral/📁 06-Lore/📁 06.1 - Planos da Existência",
+    "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/Feywild.md",
+    "Geral/📁 06-Lore/Estatuas da Catedral.md",
+    "Geral/📁 04-Itens/Bag of Holding.md",
+    "Geral/📁 04-Itens/Relíquia Misteriosa.md",
+    "Geral/📁 03-Lugares/Brumavale.md",
+    "Geral/📁 04-Itens/Diário Misterioso.md",
+    "Geral/📁 06-Lore/Globo Dourado.md",
+    "Geral/📁 03-Lugares/Vila Misteriosa.md",
+    "Geral/📁 03-Lugares/Dungeon Espelhada.md",
+    "Geral/📁 02-Criaturas/Aranha Gigante.md",
+    "Geral/📁 02-Criaturas/Aranhas da Caverna.md",
+    "Geral/📁 07-Magias/Hold Person.md",
+    "Geral/📁 05-Organizações/O Grupo.md",
+    "Geral/📁 06-Lore/Palantyr.md",
     "Geral/📁 07-Magias",
     "Geral/📁 01-Personagens/📁 01.2 - NPCs",
     "Geral/📁 01-Personagens/📁 01.1 - Classes/Sem título",
-    "Geral/📁 01-Personagens/Zaman.md",
-    "Geral/📁 01-Personagens/Siivet.md",
-    "Geral/📁 01-Personagens/Pesky.md",
-    "Geral/📁 01-Personagens/Demétrius.md",
     "Geral/📁 01-Personagens/📁 01.1 - Classes",
     "Geral/📁 06-Lore",
     "Geral/📁 05-Organizações",
     "Geral/📁 04-Itens",
     "Geral/📁 03-Lugares",
-    "Geral/📁 02-Criaturas",
-    "Geral/📁 01-Personagens"
+    "Geral/📁 02-Criaturas"
   ]
 }

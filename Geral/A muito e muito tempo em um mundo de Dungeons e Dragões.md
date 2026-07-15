@@ -1,7 +1,5 @@
 
-
 ---
-
 ## T01x001 — Um bar nada comum...
 
 > _O mundo não acaba de uma vez. Ele vai se desfazendo aos poucos, em silêncio, enquanto as pessoas dormem._
@@ -30,7 +28,7 @@ Os integrantes desse grupo seriam:
 
 Assim que aceitaram a missão, [[Siivet]] imediatamente ativa [[Detect Magic]] e sai correndo ao redor da vila buscando qualquer sinal de magia em uma cidade vazia. No caminho de volta, [[Siivet]] acaba encontrando um [[Gato Preto com Olhos Dourados|Gato Preto]], mas assim que tenta se aproximar, ele foge. [[O Grupo]] se divide para investigar a cidade, que por sua vez estava quieta até demais.
 
-[[O Grupo|Uma parte do grupo]] foi até a [[Igreja de Brumavale|igreja local]], onde encontraram uma [[Sending Stone]]. Nela havia uma prova de que o [[Padre de Brumavale|Padre]] havia avisado alguém de que a cidade já estava pronta para ser invadida.
+[[O Grupo|Uma parte do grupo]] foi até a [[Igreja da Fé dos Sete em Brumavale|igreja local]], onde encontraram uma [[Sending Stone]]. Nela havia uma prova de que o [[Padre de Brumavale|Padre]] havia avisado alguém de que a cidade já estava pronta para ser invadida.
 
 Já o [[O Grupo|outro grupo]] ficou na carroça de prontidão, até que escutaram barulhos vindo do escuro no meio das árvores. E foi quando [[Aurélia]] abriu suas asas de [[Aasimar]] e brilhou para tentar colocar um pouco de luz em tanta escuridão — ela só não esperava levar duas flechadas em suas asas. Com isso, um grupo de inimigos iniciou uma emboscada para roubarem o [[Anel Do Poder]].
 
@@ -78,7 +76,7 @@ Chegando na entrada da [[Tavrobel|cidade]], [[O Grupo]] percebe que não havia n
 
 [[O Grupo]] acha um livro com algumas informações e citações sobre os [[Chapéus de Aba]] e também percebe que existem muitos livros de história com muitas [[Páginas Rasgadas]] e faltando.
 
-Ao cair da noite, [[O Grupo]] sai à procura do bar mais sujo que possam encontrar, mas acaba se deparando com um [[Padre de Brumavale|Padre]] entrando num beco. [[O Grupo]] entra no beco na surdina e encurrala o [[Padre de Brumavale|Padre]] que suspeitavam de ser o mesmo responsável pela igreja a qual haviam visitado na cidade anterior mas que estava vazia, o [[Padre de Brumavale|Padre]] estava conversando e buscando informações de [[John]] que pertence a uma organização chamada [[Amanhecer Negro]] (Ele é um informante infiltrado na [[Igreja da Fé dos Sete em Wolfenberg]]).
+Ao cair da noite, [[O Grupo]] sai à procura do bar mais sujo que possam encontrar, mas acaba se deparando com um [[Padre de Brumavale|Padre]] entrando num beco. [[O Grupo]] entra no beco na surdina e encurrala o [[Padre de Brumavale|Padre]] que suspeitavam de ser o mesmo responsável pela [[Igreja da Fé dos Sete em Brumavale|igreja]] a qual haviam visitado na cidade anterior mas que estava vazia, o [[Padre de Brumavale|Padre]] estava conversando e buscando informações de [[John]] que pertence a uma organização chamada [[Amanhecer Negro]] (Ele é um informante infiltrado na [[Igreja da Fé dos Sete em Wolfenberg]]).
 
 O [[Padre de Brumavale|Padre]] tirou a própria vida antes do grupo conseguir informações dele, mas quando ele toma essa atitude drástica, algo novo nasce — o [[Padre de Brumavale|Padre]] virou um [[Ghoul]] e uma intensa batalha começa. Depois do esforço em conjunto do grupo para derrotarem o [[Ghoul]], [[O Grupo]] interroga [[John]] e conseguem descobrir onde estão as [[Páginas Rasgadas]] dos livros: na [[Igreja da Fé dos Sete em Wolfenberg]]. Então [[John]] diz que "Eles rasgaram e levaram as páginas dos livros mais importantes que a biblioteca continha."
 
@@ -100,21 +98,13 @@ Após uma noite de sono na base da [[Guilda de Ladrões]], [[Remy Lebeau]] apres
 
 Logo [[O Grupo]] percebe que se tratava de uma espécie de espelho gigante que refletia todos os movimentos que eles faziam, e para testarem se havia algum perigo [[O Grupo]] decide jogar pedras e galhos para ver oque iria acontecer, mas os objetos simplesmente atravessam o espelho, e ao tentarem fazer algo semelhante jogando magias contra o espelho elas também atravessam e nada era refletido.
 
-[[O Grupo]] então tenta se aproximar do espelho gigante mas ele parece se afastar cada vez mais, impossibilitando atravessar. Tomados por uma ideia de tentar "quebrar" aquela magia, [[O Grupo]] se divide em dois e cada uma das partes correm em uma direção (Uma parte do [[O Grupo|grupo]] em direção ao espelho e outra na direção contraria), mas assim que ganham velocidade o [[O Grupo|grupo]] que estavam indo em direção ao espelho conseguem o alcançar e se jogam para dentro dele. A outra metade do grupo quando percebem que seus amigos conseguiram atravessar o [[Espelho Gigante]], imediatamente voltam de direção e começam a correr o mais rápido que conseguem e finalmente saltam para dentro dele.
+[[O Grupo]] então tenta se aproximar do espelho gigante mas ele parece se afastar cada vez mais, impossibilitando a travessia. Tomados por uma ideia de tentar "quebrar" aquela magia, [[O Grupo]] se divide em dois e cada uma das partes correm em uma direção (Uma parte do [[O Grupo|grupo]] em direção ao espelho e outra na direção contraria), mas assim que ganham velocidade o [[O Grupo|grupo]] que estavam indo em direção ao espelho conseguem o alcançar e se jogam para dentro dele. A outra metade do [[O Grupo|grupo]] quando percebem que seus amigos conseguiram atravessar o espelho gigante, imediatamente voltam de direção e começam a correr o mais rápido que conseguem e finalmente saltam para dentro dele.
 
-  
+Ao atravessarem o espelho gigante, eles se deparam com um longo corredor extremamente alto e que conforme vão andando por ele as tochas das laterais que estavam apagadas vão se acendendo no caminho e deixando um "ar de mistério" total, pois como um corredor daquele tamanho simplesmente pode ter aparecido no meio da floresta, atras de um espelho ? Ao andar por esse corredor, [[O Grupo]]  se depara com salas com árvores, então entrando em uma delas [[O Grupo]] se depara com uma poça de água no meio da que seria a última sala. Foi então que [[Zaman]] tem a ideia de se jogar na poça que parece ser muito profunda, mas antes disso [[O Grupo]] decide amarrar uma corda nele por sua segurança. Assim que [[Zaman]] se aproxima demais da poça ele é sugado para dentro dela com muita força, tanto que o grupo não conseguem segurar a corda e ela escapa de suas mãos, fazendo assim [[Siivet]] e [[Dave]] pularem atras nele imediatamente.
 
-Ao atravessarem o "espelho gigante", eles se deparam com um longo corredor extremamente alto e que conforme vão andando por ele as tochas das laterais que estavam apagadas vão se acendendo no caminho e deixando um "ar de mistério" total, pois como um corredor daquele tamanho simplesmente pode ter aparecido no meio da floresta, atras de um espelho ? Ao andar por esse corredor, [[O Grupo]]  se depara com salas com árvores, então entrando em uma delas [[O Grupo]] se depara com uma poça de água no meio da que seria a última sala. Foi então que [[Zaman]] tem a ideia de se jogar na poça que parece ser muito profunda, mas antes disso [[O Grupo]] decide amarrar uma corda nele por sua segurança. Assim que [[Zaman]] se aproxima demais da poça ele é sugado para dentro dela com muita força, tanto que o grupo não conseguem segurar a corda e ela escapa de suas mãos, fazendo assim [[Siivet]] e [[Dave]] pularem atras dele imediatamente.
+E quando eles percebem, foram parar em uma versão espelhada da [[Dungeon Espelhada|dungeon]] original, como se fosse um "mundo invertido" pelo menos em teoria eles estariam de ponta cabeça agora. Após o grupo todo decidir pular fazer a passagem, eles caminham mais um pouco e, na frente de uma grande porta, o [[Gato Preto com Olhos Dourados|gato preto]] estava os esperando, e agora visto um pouco mais de perto todos conseguem prestar atenção em um detalhe que tinha passado despercebido anteriormente, o misterioso [[Gato Preto com Olhos Dourados|gato]] tinha olhos dourados que reluziam e apresentavam um brilho que com certeza não poderia vir de um gato comum. Então [[Aurélia]] tenta castar [[Hold Person]] nele, mas não teve efeito aparente, alguns desconfiam que ela até errou (Mas na verdade o a [[Hold Person|magia]] foi castada corretamente e até chegou a se formar em cima do [[Gato Preto com Olhos Dourados|gato]] porem ao chegar próxima de ser concluída a magia se desfez, como se [[Gato Preto com Olhos Dourados|ele]] houvesse "quebrado" a [[Hold Person|magia]]).
 
-  
-
-E quando eles percebem, foram parar em uma versão espelhada da dungeon, como se fosse um "mundo invertido" pelo menos em teoria eles estariam de ponta cabeça agora. Após o grupo todo decidir pular fazer a passagem, eles caminham mais um pouco e, na frente de uma grande porta, o [[Gato Preto com Olhos Dourados]] estava os esperando. [[Aurélia]] tentou castar [[Hold Person]] nele, mas não teve efeito aparente, alguns desconfiam que ela até errou.
-
-  
-
-Após [[O Grupo]] atravessar a porta, encontraram um pequeno cemitério com algumas lapides. Quando chegam perto de um deles, pulam um grupo de [[Aranhas da caverna]]. Assim que [[O Grupo]] estava terminando sua batalha com elas, uma [[Aranha Gigante]] desceu do teto furiosa, como quem defende seu território. Começa então uma batalha épica onde parte do grupo é envenenado, outros são presos por teias, [[Demétrius]] é pego por uma das patas da aranha, mas que com uma longa batalha e todos trabalhando em equipe logo que a [[Aranha Gigante]] foi derrotada, [[O Grupo]] começa a vasculhar as lapides, achando um total de 10 [[dracos]] e decidem parar para descansar um pouco para retomar o fôlego.
-
-  
+Após [[O Grupo]] atravessar a porta, encontraram um pequeno cemitério com algumas lapides. Quando chegam perto de uma delas, pulam um grupo de [[Aranhas da Caverna]]. Assim que [[O Grupo]] estava terminando sua batalha com elas, uma [[Aranha Gigante]] desceu do teto furiosa, como quem defende seu território. Começa então uma batalha épica onde parte do grupo é envenenado, outros são presos por teias, [[Demétrius]] é pego por uma das patas da aranha, mas que com uma longa batalha e todos trabalhando em equipe logo que a [[Aranha Gigante]] foi derrotada, então [[O Grupo]] começa a vasculhar as lapides, achando um total de 10 [[Draco|dracos]] e decidem parar para descansar um pouco para retomar o fôlego.
 
 (Frases importantes ditas em algum momento da seção:
 
@@ -124,118 +114,58 @@ Após [[O Grupo]] atravessar a porta, encontraram um pequeno cemitério com algu
 
 )
 
-  
-  
-
 ---
-
 ## T01x004 — Visões do Vazio parte 2
 
-  
-
-Após [[O Grupo]] descansar, seguiram viajem pela dungeon e seus corredores até chegarem numa [[Vila Misteriosa]]. Após andarem pela vila com chão de paralelepípedo, ruas estreitas e um tom amarelo que estranhamente estava por toda parte na vila, alguns integrantes do grupo começaram a perceber que a [[Vila Misteriosa]] tinha um formato de espiral, quando vão caminhando em direção ao centro desse espiral [[O Grupo]] chega ao centro e avistam o [[Gato Preto com Olhos Dourados]] na varanda de uma casa um pouco mais afastada das outras em um terreno mais alto, como se estivesse fora do espiral. Quanto mais se aproximam do gato, mais as coisas ficam estranhas — então quando [[O Grupo]] resolve se aproximar do [[Gato Preto com Olhos Dourados]], oque antes parecia ser ele, agora se torna apenas um mosaico de ladrilhos que estavam formando a sua imagem em perfeita proporção.
-
-  
+Após [[O Grupo]] descansar, seguiram viajem pela [[Dungeon Espelhada|dungeon]] e seus corredores até chegarem numa [[Vila Misteriosa]]. Após andarem pela vila com chão de paralelepípedo, ruas estreitas e um tom amarelo que estranhamente estava por toda parte na vila, alguns integrantes do [[O Grupo|grupo]] começaram a perceber que a [[Vila Misteriosa]] tinha um formato muito estranho e incomum de espiral, e quando vão caminhando em direção ao centro desse espiral [[O Grupo]] chega ao centro e avistam o [[Gato Preto com Olhos Dourados|gato preto]] na varanda de uma casa um pouco mais afastada das outras em um terreno mais alto, como se estivesse fora do espiral. Quanto mais se aproximam do [[Gato Preto com Olhos Dourados|gato]], mais as coisas ficam estranhas — então quando [[O Grupo]] resolve se aproximar do [[Gato Preto com Olhos Dourados|gato]], oque antes parecia ser ele, agora se torna apenas um mosaico de ladrilhos que estavam formando a sua imagem em perfeita proporção.
 
 [[O Grupo]] então decide se dividir e cercar a casa para se caso estivesse ocupada, que ninguém conseguisse escapar. Enquanto metade do grupo entra em silencio na porta dos fundos, [[Zaman]] decide se jogar na porta da frente, entrando com tudo na casa, então [[O Grupo]] começa a explorar e acaba encontrando um outro mosaico, que quando olhado da perspectiva certa, formava uma seta para um tapete da casa. E ao analisar essa área e olhar de baixo do tapete, [[O Grupo]] acha um alçapão que os leva ao andar de baixo.
 
-  
-
-No andar de baixo, [[O Grupo]] encontra um [[Globo Dourado]], então tentam mover ele utilizando a força bruta, tentando girar, erguer ou movimentar de alguma forma mas ele não se mexe nem um centímetro. Foi quando alguém teve a ideia de infundir o [[Globo Dourado]] com magia, o foi ai que ele se abriu e no meio e começaram a apareceram três planos da existência:
-
-  
+No andar de baixo, [[O Grupo]] encontra um [[Globo Dourado]], então todos juntos tentam mover ele utilizando a força bruta, tentando girar, erguer ou movimentar de alguma forma mas ele não se mexe nem um centímetro. Foi quando alguém teve a ideia de infundir o [[Globo Dourado]] com magia, o foi ai que ele se abriu e no meio e começaram a apareceram três planos da existência:
 
 **[[Feywild]]**
 
-  
-
 No topo da esfera, um grupo de estrelas.
-
-  
 
 **[[Plano Mortal]]**
 
-  
-
 No centro, o nosso mundo — inclusive [[Essos]]. Em volta, duas imagens distorcidas paralelas. Estava marcado que estamos no centro e ao mesmo tempo na distorção da direita.
-
-  
 
 **[[O Abissal]]**
 
-  
-
 No domo de baixo, um fundo escuro.
-
-  
 
 **[[Nine Hell's]]**
 
-  
-
 Após o [[Globo Dourado]] se abrir, uma parede se quebra e uma nova passagem se forma. Ao adentrar a nova passagem, [[O Grupo]] vê algo escrito na parede:
-
-  
 
 > *"Eu sou a lembrança que o tempo deixou para trás"*
 
-  
+Atravessando essa passagem, [[O Grupo]] encontra um corredor sem saída, até chegarem na ponta de um abismo e verem de novo a mesma escrita. [[O Grupo]] escuta um barulho de um portão imenso se abrindo com o som ecoando no local. [[O Grupo]] então olha para baixo e veem um buraco escuro mas com um portão gigante no fundo onde aparentava ser o "chão". [[Zaman]] decide pular em direção a ele mas todos ficam surpresos quando percebem que [[Zaman]] fica em pé no que na visão do grupo seria a "parede" do grande buraco, então ele começa a andar pelas paredes em direção ao portão e logo [[O Grupo]] o seguiu.
 
-Saindo da sala, [[O Grupo]] encontra um corredor sem saída, até chegarem na ponta de um abismo e verem de novo a mesma escrita. [[O Grupo]] escuta um barulho de um portão imenso se abrindo com o som ecoando no local. [[O Grupo]] então olha para baixo e veem um buraco escuro mas com um portão gigante no fundo onde aparentava ser o "chão". [[Zaman]] decide pular em direção a ele mas todos ficam surpresos quando percebem que [[Zaman]] fica em pé no que na visão do grupo seria a "parede" do grande buraco, então ele começa a andar pelas paredes em direção ao portão e logo [[O Grupo]] o seguiu.
+Dentro do portão, [[O Grupo]] se separa e tudo escurece. O [[Diário Misterioso]] do [[Siivet]] sai da [[Bag of Holding]], vai até o centro da sala escura e começa a passar as páginas. Ao mesmo tempo, uma nuvem passa pelo grupo os levando até uma visão de cima de [[Essos]]. Quando [[O Grupo]] entende o que está acontecendo, uma estrela de seis pontas é desenhada em [[Essos]] — e no centro da estrela está o sétimo ponto, que se encontra em uma ilha sem nada aparente no centro.
 
-  
-
-Dentro do portão, [[O Grupo]] se separa e tudo escurece. O [[diário misterioso]] do [[Siivet]] sai da [[Bag of Holding]], vai até o centro da sala escura e começa a passar as páginas. Ao mesmo tempo, uma nuvem passa pelo grupo os levando até uma visão de cima de [[Essos]]. Quando [[O Grupo]] entende o que está acontecendo, uma estrela de seis pontas é desenhada em [[Essos]] — e no centro da estrela está o sétimo ponto, que se encontra em uma ilha sem nada aparente no centro.
-
-  
-
-Mais uma nuvem passa e os leva de volta à escuridão. O [[diário misterioso]] aparece mais uma vez e, enquanto as páginas são folheadas, algo é construído. Uma ilusão de uma igreja — [[O Grupo]] está dentro da [[Fé dos Sete]], mas as estátuas não são dos 7 deuses conhecidos e sim dos 7 deuses perdidos. Em seu teto, o símbolo de [[Bane]] — uma mão segurando a luz emitindo feixes que representam Bane e seus 7 servos esquecidos como forma de estatuas destruídas.
-
-  
+Mais uma nuvem passa e os leva de volta à escuridão. O [[Diário Misterioso]] aparece mais uma vez e, enquanto as páginas são folheadas, algo é construído. Uma ilusão de uma igreja — [[O Grupo]] está dentro da [[Fé dos Sete]], mas as estátuas não são dos [[Fé dos Sete|7 deuses conhecidos]] e sim dos [[Bane|7 deuses perdidos]]. Em seu teto, o símbolo de [[Bane]] — uma mão segurando a luz emitindo feixes que representam [[Bane]] e seus 7 servos esquecidos como forma de estatuas destruídas.
 
 As estátuas se quebram e são engolidas por 7 vitrais que se mostram sendo de 7 animais diferentes. Cada um do grupo se aproximou de um vitral e se "conciliou" a um animal dos [[7 Pecados Capitais]]:
 
-  
-
 | Personagem | Animal |
-
-  
-
-|---|---|
-
-  
 
 | [[Siivet]] | Pavão do Orgulho |
 
-  
-
 | [[Zaman]] | Cabra da Luxúria |
-
-  
 
 | [[Aurélia]] | Porco da Gula |
 
-  
-
 | [[Pesky]] | Coala da Preguiça |
-
-  
 
 | [[Illunthar]] | Dragão da Ira |
 
-  
-
 | [[Dave]] | Serpente da Inveja |
-
-  
 
 | [[Demétrius]] | Raposa da Ganância |
 
-  
-
-Após [[O Grupo]] ter se "conciliado" aos [[7 Pecados Capitais]], a capa do [[diário misterioso]] se transforma em [[Dagor Dagorath]] e a sala volta a ter luz. Com tudo resolvido e muitas perguntas sem respostas, [[O Grupo]] finalmente sai da [[Dungeon Espelhada]] e segue seu caminho até [[Wolfenberg]].
-
-  
+Após [[O Grupo]] ter se "conciliado" aos [[7 Pecados Capitais]], a capa do [[Diário Misterioso]] se transforma em [[Dagor Dagorath]] e a sala volta a ter luz. Com tudo resolvido e muitas perguntas sem respostas, [[O Grupo]] finalmente sai da [[Dungeon Espelhada]] e segue seu caminho até [[Wolfenberg]].
 
 ---
 

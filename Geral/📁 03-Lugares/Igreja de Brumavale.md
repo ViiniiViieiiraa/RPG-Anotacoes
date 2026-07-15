@@ -1,1 +1,0 @@
-Igreja da cidade local de [[Brumavale]], onde foi encontrado provas que o [[Padre de Brumavale]] havia avisado para alguém que "a cidade estava pronta para ser invadida".
