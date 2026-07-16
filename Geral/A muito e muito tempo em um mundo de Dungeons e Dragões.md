@@ -191,72 +191,40 @@ Começando mais um dia na cidade de [[Wolfenberg]], [[O Grupo]] parte em direç�
 
 Assim que chegam no [[Orfanato de Wolfenberg]], começam a colocar o plano em ação! [[Illunthar]] que é um [[Drakewarden]] começa a conversar com seu companheiro [[Tico]] (que ainda é um pequeno dragão) que o plano seria: ele entrar pela janela correndo pelo orfanato o mais rápido que ele pudesse ( [[Tico]] começa a acenar com a cabeça como quem estava entendendo, e mesmo no colo já começa a correr com suas patinhas em direção a janela) e com seu elemento de raio, com uma pequena nuvem de chuva em sua cabeça, e pequenos estalos de eletricidade por sua boca, sai correndo pelos corredores do orfanato, derrubando vasos de planta e fazendo muito barulho. [[O Grupo]] apenas escuta a gritaria das freiras que ainda estavam no local "-PEGA ELE!", então quando [[Tico]] retorna pela mesma janela que entrou, e as três freiras vem correndo atrás dele, e assim que [[Pesky]] que já havia deixado um feitiço pronto as avistou pela janela, colocou as três freiras para dormir.
 
-  
-
-enquanto [[Siivet]] e [[Zaman]] encontram um livro com preços em crianças — sem nenhuma entrada para [[Aurélia]].
-
-  
+Enquanto [[Siivet]] e [[Zaman]] procuram qualquer informações que possa ajudar a descobrir oque estava acontecendo com as freiras, acabam encontrando um livro com preços em crianças, e descobrem que estavam sendo vendidas — sem nenhuma entrada para [[Aurélia]].
 
 > ℹ️ **Info:** A criança mais cara já vendida valia 5.900 peças de ouro. Seu nome era [[Anastácia]] e foi listada a 20 anos atras.
 
-  
+Com o grupo todo no hall, o grupo chega até o local indicado onde na noite anterior haviam visto o formato de uma porta com luz de magia saindo por baixo, mas quando chegam la apenas encontram uma parede e sem nenhuma porta no local, é quando [[Zaman]] decide estourar a parede que se mostrou ser uma porta com uma ilusão. Descendo para um porão, [[O Grupo]] se depara com uma cena horrível — [[Sonia]] estava torturando [[Eva]]. Mas se a [[Eva]] estava aqui, quem saiu com as crianças?
 
-Com o grupo todo no hall, [[Zaman]] estoura a parede que se mostrou ser uma porta com uma ilusão. Descendo para um porão, [[O Grupo]] se depara com uma cena horrível — [[Sonia]] estava torturando [[Eva]]. Mas se a [[Eva]] estava aqui, quem saiu com as crianças?
+[[Zaman]] sem paciência ataca [[Sonia]] com um [[Eldritch Blast]], fazendo com que ela matasse a [[Eva]] na frente do grupo. [[Sonia]] então ativa [[Silence]] na sala e mais nenhum som pode ser ouvido, nenhuma magia na qual precise da voz pode ser dita, e isso dificulta muito o combate contra [[Sonia]] que parecia já ter planejado tudo. Então todos do grupo começam a procurar qual a origem dessa magia de [[Silence]] conjurada por [[Sonia]], e é ai que [[Siivet]] encontra a fonte da magia — era uma vela que estava logo acima da cabeça do [[O Grupo|grupo]] — e a quebra disparando uma flecha com sua [[Light Crossbow]] logo em seguida [[Zaman]] corre em direção a [[Sonia]] mas ainda não chega a alcança-la.
 
-  
+Com a sala livre novamente, [[Siivet]] vai ao encontro de seu amigo mas assim que pisa em dos degraus da escada acaba caindo em uma armadilha invisível que o coloca para dormir sem ninguém do [[O Grupo|grupo]] entender o motivo. [[Dave]] e [[Demétrius]] sem entenderem vão correr em direção a [[Siivet]] para ajudar mas logo caem na mesma armadilha e também acabam dormindo. [[Illunthar]] então analisa a situação e consegue perceber que oque estava fazendo seus amigos dormirem era um feitiço feito em cada degrau da escada, então logo tem a ideia de arremessar [[Tico]] diretamente em [[Siivet]] para que com o impacto o acordasse e pudesse ajudar o [[Zaman]] que estava mais perto de [[Sonia]]. Depois de [[Illunthar]] arremessar [[Tico]], ele tenta pular a escada e por cima de todos degraus para não cair na armadilha, mas pela escada ser muito longa acaba falhando e caindo no sono também. [[Pesky]] então usa uma [[Magia de Terremoto]] para acordar os três aliados — mas [[Demétrius]] não aguentou o choque, e teve seu braço quebrado sendo assim teve que recuar e se tirar do combate.
 
-[[Zaman]] sem paciência ataca [[Sonia]] com um [[Eldritch Blast]], fazendo com que ela matasse a [[Eva]] na frente do grupo. [[Sonia]] então ativa [[Silence]] na sala e mais nenhum som pode ser ouvido. [[Siivet]] encontra a fonte da magia [[Silence]] — era uma vela — e a quebra disparando uma [[Crossbow Bolt]] com sua [[Light Crossbow]].
+[[Siivet]] e [[Zaman]] ficam cara a cara com [[Sonia]] e tentam perguntar algumas coisas, mas ela da apenas respostas sarcásticas e com deboche do grupo. [[O Grupo]] descobre que as vozes na cabeça de [[Aurélia]] eram, quase sempre, da própria [[Sonia]].
 
-  
+[[Sonia]] fica impaciente e decide acabar com todas as testemunhas, se revelando como uma [[Bruxa Verde]]. Com [[Dave]] e [[Illunthar]] agora acordados devido a [[Magia de Terremoto]] de [[Pesky]], [[O Grupo]] contra ataca. [[Siivet]] consegue um acerto critico e bate no joelho da [[Sonia]] com sua [[Quarterstaff]], fazendo ela se ajoelhar com uma das pernas em apenas um golpe. [[Illunthar]] também consegue um acerto critico e atinge o outro joelho com sua [[Greatsword]], deixando-a totalmente exposta. [[Dave]] consegue quase um milagre e com o terceiro acerto critico em seguida usa machado arranca a cabeça da [[Bruxa Verde]] em um corte só — [[O Grupo]] sai vitorioso.
 
-Com a sala livre novamente, [[Siivet]] vai ao encontro de seu amigo mas acaba caindo em uma armadilha que o coloca para dormir. [[Dave]] e [[Demétrius]] logo caem na mesma armadilha. Antes de [[Illunthar]] ser colocado para dormir também, ele arremessa seu dragãozinho em [[Siivet]] para que ele acorde e ajude [[Zaman]]. [[Pesky]] então usa uma **magia de terremoto** para acordar os três aliados — mas [[Demétrius]] não aguentou o choque, teve seu braço quebrado e se retirou do combate.
-
-  
-
-[[Siivet]] e [[Zaman]] ficam cara a cara com [[Sonia]] e tentam perguntar algumas coisas, mas ela da apenas respostas sarcásticas e com deboche do grupo. [[O Grupo]] descobre que as vozes na cabeça de [[Aurélia]] eram, 99% das vezes, da própria [[Sonia]].
-
-  
-
-[[Sonia]] fica impaciente e decide acabar com todas as testemunhas, se revelando como uma [[Bruxa Verde]]. Com [[Dave]] e [[Illunthar]] agora acordados, [[O Grupo]] contra ataca. [[Siivet]] bate no joelho da [[Sonia]] com seu [[Quarterstaff]], fazendo ela se ajoelhar. [[Illunthar]] atinge o outro joelho, deixando-a totalmente exposta. [[Dave]] com seu machado arranca a cabeça da [[Bruxa Verde]] em um corte só — [[O Grupo]] sai vitorioso.
-
-  
+  > ℹ️ **Info:** A probabilidade de acontecerem **3 acertos críticos seguidos** em um d20 é de aproximadamente **1 em 8.000** , o que equivale a exatamente **0,0125%** de probabilidade.
 
 Com a morte da [[Bruxa Verde]], [[O Grupo]] a vasculha e encontra 100 peças de ouro e um olho do [[Convento de Bruxas]]. [[Aurélia]] esmaga o olho com os pés quando ele se abre para observar o cenário. [[Zaman]] arranca os dois olhos da [[Bruxa Verde]] e pede para [[Siivet]] guardar na [[Bag of Holding]]. [[Aurélia]] lembra que ganhou uma boneca de madeira da [[Eva]] e resolve dar para o [[Dave]] sentir o cheiro para rastrear.
 
-  
-
-[[Siivet]] usa [[Identify]] na boneca de madeira que [[Eva]] tinha dado pouco tempo antes para [[Aurélia]] e descobre que não tem nada, mas como ele utilizou os 100 de ouro do grupo para fazer o ritual, [[Siivet]] mente e joga a boneca no chão destruindo-a, afirmando que seria uma "Boneca do mau". Sem pistas, [[O Grupo]] sai do esconderijo da [[Bruxa Verde]] e corta pelos esgotos até a cidade. [[Dave]] comenta que está sendo caçado por [[Crias Vampíricas]] e [[Vampiros]]. [[Zaman]] foi com [[Du, Dudu e Edu]] ser vendido. [[O Grupo]] se dividiu para pensar nos acontecimentos.
-
-  
+[[Siivet]] usa [[Identify]] na boneca de madeira que [[Eva]] tinha dado pouco tempo antes para [[Aurélia]] e descobre que não tem nada, mas como ele utilizou os 100 de ouro que o [[O Grupo|grupo]] havia acabado de ganhar, [[Siivet]] mente e joga a boneca no chão destruindo-a, afirmando que seria uma "Boneca do mau". Sem pistas, [[O Grupo]] sai do esconderijo da [[Bruxa Verde]] e corta pelos esgotos até a cidade. [[Dave]] comenta que está sendo caçado por [[Crias Vampíricas]] e [[Vampiros]] mas não sabem o porque eles o perseguem. [[Zaman]] foi com [[Du, Dudu e Edu]] ser vendido para a [[Igreja da Fé dos Sete em Wolfenberg|igreja]]. [[O Grupo]] se dividiu para pensar nos acontecimentos e planejar os próximos passos.
 
 ---
 
 ## T01x006 — Um grupo unido e derrotado
 
-  
+[[Du, Dudu e Edu]] levam o [[Zaman]] para ser vendido na igreja de [[Wolfenberg]]. Chegando lá, entram em negociação com dois guardas e fecham a venda por 6 moedas de platina. [[Zaman]] é levado para os níveis baixos da [[Igreja da Fé dos Sete em Wolfenberg|igreja]], onde é preciso ter um certo nível de reconhecimento para que possa ser acessado essas salas.
 
-[[Du, Dudu e Edu]] levam o [[Zaman]] para ser vendido na igreja de [[Wolfenberg]]. Chegando lá, entram em negociação com dois guardas e fecham a venda por 6 moedas de platina. [[Zaman]] é levado para os níveis baixos da igreja, onde é preciso ter um certo nível de reconhecimento dentro da [[Catedral da Igreja de Wolfenberg]].
+Nos níveis baixos da [[Igreja da Fé dos Sete em Wolfenberg]], existem várias portas com nomes de deuses: [[Shar]], [[Selune]], [[Bhaal]], [[Bane]], [[Myrkul]] e [[Lathander]]. No final do corredor, há uma porta central que é a sala do chefe — é para lá que os dois guardas levam o [[Zaman]]. Ao entrar na sala, [[Zaman]] vê um símbolo e, ao olhar para ele, se desmonta e começa a ter algumas visões.
 
-  
+Enquanto isso, o resto do grupo vai para os esgotos tentar achar a porta que o [[Zaman]] vai abrir para eles. [[Siivet]] entrega a [[Quarterstaff]] que era do [[Zaman]] para o [[Dave]] cheirar. [[Dave]] guia [[O Grupo]] até um grande corredor, então todos caminham até um córrego do esgoto e, para atravessar, [[Pesky]] usa [[Tenser's Floating Disk]], pulando sobre o córrego.
 
-Nos níveis baixos da [[Catedral da Igreja de Wolfenberg]], existem várias portas com nomes de deuses: [[Shar]], [[Selune]], [[Bhaal]], [[Bane]], [[Myrkul]] e [[Lathander]]. No final do corredor, há uma porta central que é a sala do chefe — é para lá que os dois guardas levam o [[Zaman]]. Ao entrar na sala, [[Zaman]] vê um símbolo e, ao olhar para ele, desmonta e começa a ter algumas visões.
+Do outro lado do córrego [[O Grupo]] se depara com uma grande parede, então [[Siivet]] e [[Illunthar]] tentam escutar pela parede para saber onde fariam um buraco, já que não acharam a porta que [[Du, Dudu e Edu]] falaram. Ao colocarem os ouvidos na parede, são atingidos por ácido — a parede se revela um [[Slime]] que estava oculto entre os tijolos. Durante a luta, [[Pesky]] usa [[Shatter]] no [[Slime]] e acaba destruindo a parede do esgoto, oque faz [[O Grupo]] ter visão da parte de dentro da [[Igreja da Fé dos Sete em Wolfenberg|igreja]], enquanto escutam barulhos de armadura batendo, oque após alguns segundos se revelam sendo dois guardas que vieram correndo após o estrondo que a parede caindo fez ecoar. [[Illunthar]] então após preparar uma fogueira improvisada com peças de roupa e uma tocha, consegue colocar fogo em uma de suas flechas e dispara contra o [[Slime]], quando a flecha esta indo em direção ao mostro, [[Tico]] vê a flecha e rapidamente reage usando [[Infused Strikes]] para imbuir a flecha com raio. Após o [[Slime]] ser atingido e se dividir em dois e começa a fugir se enfiando na terra e entre os tijolos, o [[Guardum]] e o [[Guardois]] chegam ao local perguntando o que havia acontecido.
 
-  
+[[Aurélia]] e [[Illunthar]] conseguem enrolar os dois guardas usando desculpas esfarrapadas e seus dons em persuasão e estava tudo indo bem, até o [[Zaman]] acordar gritando. [[Zaman]] investiga o quarto e acaba achando algumas das [[Páginas Rasgadas]]. Logo que sai do quarto, acaba avistando um dos guardas que já estava indo em direção a sala em que ele estava, então imediatamente lança um [[Eldritch Blast]] no guarda, fazendo [[O Grupo]] entrar em mais um combate. [[O Grupo]] consegue matar o [[Guardum]], mas não antes do [[Monge Mago]] — um dos mandas chuvas da [[Igreja da Fé dos Sete em Wolfenberg]] — chegar.
 
-Enquanto isso, o resto do grupo vai para os esgotos tentar achar a porta que o [[Zaman]] vai abrir para eles. [[Siivet]] entrega um [[Quarterstaff]] que era do [[Zaman]] para o [[Dave]] cheirar. [[Dave]] guia [[O Grupo]] até um grande corredor, então todos caminham até um córrego do esgoto e, para atravessar, [[Pesky]] usa [[Tenser's Floating Disk]], pulando sobre o córrego.
+Assim que o [[Monge Mago]] chega, já lança uma [[Wall of Fire]] e derruba o [[Siivet]] e o [[Demétrius]] em apenas um ataque que nem demonstrava todo o seu poder. Logo depois, o [[Monge Mago]] vai atrás do [[Zaman]], então ele usa todas as suas habilidades de persuasão e tenta convencer o [[Monge Mago]]  — para não lutar ou matar qualquer um ali, com o intuito de defender todos da morte iminente, dando informações e provando que [[O Grupo]] é necessário para tudo o que está acontecendo no mundo e revelando a possível localização de dois dos [[Anel Do Poder|anéis]] que tinha tido em suas visões.
 
-  
-
-Do outro lado do córrego [[O Grupo]] se depara com uma grande parede, então [[Siivet]] e [[Illunthar]] tentam escutar pela parede para saber onde fariam um buraco, já que não acharam a porta que [[Du, Dudu e Edu]] falaram. Ao colocarem os ouvidos na parede, são atingidos por ácido — a parede se revela um [[Slime]] que estava oculto entre os tijolos. Durante a luta, [[Pesky]] usa [[Shatter]] no [[Slime]] e acaba destruindo a parede do esgoto, oque faz [[O Grupo]] ter visão da parte de dentro da igreja, enquanto escutam barulhos de armadura batendo, oque após alguns segundos se revelam sendo dois guardas que vieram correndo após o estrondo que a parede caindo fez ecoar. [[Illunthar]] então após preparar uma fogueira improvisada com peças de roupa e tocha, consegue colocar fogo em uma de suas flechas e dispara contra o [[Slime]], quando a flecha esta indo em direção ao mostro, [[Tico]] vê a flecha e rapidamente reage para usar [[Infused Strikes]] para imbuir a flecha com raio. Após o [[Slime]] ser atingido e se dividir em dois e fugir se enfiando na terra, o [[guardum]] e o [[guardois]] chegam ao local perguntando o que havia acontecido.
-
-  
-
-[[Aurélia]] e [[Illunthar]] conseguem enrolar os dois guardas usando desculpas esfarrapadas e seus dons em persuasão e estava tudo indo bem, até o [[Zaman]] acordar gritando. [[Zaman]] investiga o quarto e acaba achando algumas das [[Páginas Perdidas]]. Logo que sai do quarto, acaba avistando um dos guardas que já estava indo em direção a sala em que ele estava, então imediatamente lança um [[Eldritch Blast]] no guarda, fazendo [[O Grupo]] entrar em mais um combate. [[O Grupo]] consegue matar o [[guardum]], mas não antes do [[Monge Mago]] — um dos mandas chuvas da [[Catedral da Igreja de Wolfenberg]] — chegar.
-
-  
-
-Assim que o [[Monge Mago]] chega, já lança uma [[Wall of Fire]] e derruba o [[Siivet]] e o [[Demétrius]] em apenas um ataque que nem demonstrava todo o seu poder. Logo depois, o [[Monge Mago]] vai atrás do [[Zaman]], então ele usou todas as suas habilidades de persuasão e tenta convencer o [[Monge Mago]]  — para não lutar ou matar qualquer um ali, com o intuito de defender todos da morte iminente, dando informações e provando que [[O Grupo]] é necessário para tudo o que está acontecendo no mundo e revelando a possivel localização de dois dos [[Anel Do Poder]] que tinha tido em suas visões.
-
-  
-
-Então com o [[Monge Mago]] convencido, ele joga [[O Grupo]] nas selas da [[Catedral da Igreja de Wolfenberg]] sem magia, itens ou qualquer coisa que estava à vista em seus corpos. Mas graças ao [[Zaman]], todas essas pessoas agora estão definitivamente juntas como um verdadeiro grupo e com um proposito.
+Então com o [[Monge Mago]] convencido, ele joga [[O Grupo]] nas selas da [[Igreja da Fé dos Sete em Wolfenberg]] sem magia, itens ou qualquer coisa que estava à vista em seus corpos. Mas graças ao [[Zaman]], todas essas pessoas agora estão definitivamente juntas como um verdadeiro grupo e agora com um proposito maior ainda.

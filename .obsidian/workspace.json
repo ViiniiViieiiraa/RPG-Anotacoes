@@ -8,34 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5202559aefb9549",
+            "id": "3b976af39d3c459f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geral/A muito e muito tempo em um mundo de Dungeons e Dragões.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A muito e muito tempo em um mundo de Dungeons e Dragões"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           },
           {
-            "id": "0a3eaeb3059b0b7b",
+            "id": "4989ffd83bf360c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "Geral/Sumário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Sumário"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,43 +194,43 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "b5202559aefb9549",
+  "active": "4989ffd83bf360c6",
   "lastOpenFiles": [
-    "Sem título.md",
-    "Geral/A muito e muito tempo em um mundo de Dungeons e Dragões.md",
-    "Geral/📁 01-Personagens/Tico.md",
-    "Geral/📁 01-Personagens/📁 01.2 - Raças/Kenku.md",
-    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Sonia.md",
-    "Geral/📁 03-Lugares/Orfanato de Wolfenberg.md",
-    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Eva.md",
-    "Geral/📁 03-Lugares/Biblioteca de Tavrobel.md",
-    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Du, Dudu e Edu.md",
-    "Geral/📁 01-Personagens/📁 01.2 - Raças/Kobolds.md",
-    "Geral/📁 01-Personagens/📁 01.2 - Raças/Dragonborn.md",
-    "Geral/📁 01-Personagens/📁 01.2 - Raças",
-    "T01x006 — Um grupo unido e derrotado.md",
+    "Geral/Sumário.md",
     "Geral/📁 04-Itens/Anel Do Poder.md",
+    "Geral/📁 00-Sessões/T01x001 — Um bar nada comum....md",
+    "Geral/A muito e muito tempo em um mundo de Dungeons e Dragões.md",
+    "Geral/📁 00-Sessões/T01x002 — Livros, Caça-níqueis e Igrejas.md",
+    "Geral/📁 00-Sessões/T01x003 — Visões do Vazio parte 1.md",
+    "Geral/📁 00-Sessões/T01x004 — Visões do Vazio parte 2.md",
+    "Geral/📁 00-Sessões/T01x005 — A apostasia de um Anjo.md",
+    "Geral/📁 00-Sessões/T01x006 — Um grupo unido e derrotado.md",
+    "Geral/📁 00-Sessões",
+    "Sem título.md",
+    "Geral/📁 07-Magias/Wall of Fire.md",
+    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Monge Mago.md",
+    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Guardum.md",
+    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Guardois.md",
+    "Geral/📁 07-Magias/Infused Strikes.md",
+    "Geral/📁 07-Magias/Magia de Terremoto.md",
+    "Geral/📁 07-Magias/Shatter.md",
+    "Geral/📁 02-Criaturas/Slime.md",
+    "Geral/📁 07-Magias/Tenser's Floating Disk.md",
+    "Geral/📁 06-Lore/📁 06.5 - deuses/Lathander.md",
+    "Geral/📁 06-Lore/📁 06.5 - deuses/Myrkul.md",
+    "Geral/📁 06-Lore/📁 06.5 - deuses/Bhaal.md",
+    "Geral/📁 06-Lore/📁 06.5 - deuses/Selune.md",
+    "Geral/📁 06-Lore/📁 06.5 - deuses/Shar.md",
+    "Geral/📁 06-Lore/📁 06.5 - deuses",
+    "Geral/📁 02-Criaturas/Vampiros.md",
+    "Geral/📁 02-Criaturas/Crias Vampíricas.md",
+    "Geral/📁 01-Personagens/📁 01.2 - Raças",
     "Geral/📁 06-Lore/📁 06.4 - Conhecimento",
     "Geral/📁 06-Lore/📁 06.3 - Visoes",
     "Geral/📁 06-Lore/📁 06.2 - Objetos",
-    "Geral/📁 06-Lore/📁 06.2 - Objetos/Globo Dourado.md",
-    "Geral/📁 06-Lore/📁 06.3 - Visoes/7 Pecados Capitais.md",
-    "Geral/📁 06-Lore/📁 06.3 - Visoes/Bane.md",
-    "Geral/📁 05-Organizações/Fé dos Sete.md",
-    "Geral/📁 03-Lugares/Igreja da Fé dos Sete em Brumavale.md",
-    "Geral/📁 01-Personagens/📁 01.3 - NPCs/John.md",
-    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Padre de Brumavale.md",
-    "Geral/📁 03-Lugares/Igreja da Fé dos Sete em Wolfenberg.md",
-    "Geral/📁 03-Lugares/Essos.md",
-    "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/Nine Hell's.md",
-    "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/O Abissal.md",
-    "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/Plano Mortal.md",
     "Geral/📁 06-Lore/📁 06.1 - Planos da Existência",
-    "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/Feywild.md",
     "Geral/📁 07-Magias",
     "Geral/📁 01-Personagens/📁 01.3 - NPCs",
-    "Geral/📁 01-Personagens/📁 01.1 - Classes/Sem título",
-    "Geral/📁 01-Personagens/📁 01.1 - Classes",
-    "Geral/📁 06-Lore"
+    "Geral/📁 01-Personagens/📁 01.1 - Classes/Sem título"
   ]
 }
