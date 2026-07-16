@@ -167,53 +167,29 @@ As estátuas se quebram e são engolidas por 7 vitrais que se mostram sendo de 7
 
 Após [[O Grupo]] ter se "conciliado" aos [[7 Pecados Capitais]], a capa do [[Diário Misterioso]] se transforma em [[Dagor Dagorath]] e a sala volta a ter luz. Com tudo resolvido e muitas perguntas sem respostas, [[O Grupo]] finalmente sai da [[Dungeon Espelhada]] e segue seu caminho até [[Wolfenberg]].
 
----
-
 ## T01x005 — A apostasia de um Anjo
 
-  
+Com [[O Grupo]] chegando em [[Wolfenberg]], eles esbarram sem querer em alguém. O que parece ser um [[Dragonborn]], mas quando se dão conta era apenas três [[Kobolds]] em uma jaqueta de inverno: [[Du, Dudu e Edu]], o membro da [[Guilda de Ladrões]] que [[Remy Lebeau]] mencionou. [[Du, Dudu e Edu]] leva [[O Grupo]] para seu esconderijo e lá eles conversam e pensam em planos para invadir a [[Igreja da Fé dos Sete em Wolfenberg|igreja]] com o objetivo de tentar recuperar as [[Páginas Rasgadas]] e perdidas dos livros da [[Biblioteca de Tavrobel]]. O plano por enquanto era que os 3 [[Kobolds]] iriam até os esgotos e mapear a área, enquanto [[O Grupo]] dava uma volta na cidade para conhecer melhor o território.
 
-Com [[O Grupo]] chegando em [[Wolfenberg]], eles esbarram sem querer em algo. O que parece ser um [[Dragonborn]], mas quando se dão conta era apenas três [[Kobolds]] em uma jaqueta de inverno: [[Du, Dudu e Edu]], o membro da [[Guilda de Ladrões]] que [[Remy Lebeau]] mencionou. [[Du, Dudu e Edu]] leva [[O Grupo]] para seu esconderijo e lá eles conversam e pensam em planos para invadir a igreja com o objetivo de tentar recuperar as paginas rasgadas e perdidas dos livros da biblioteca. O plano por enquanto era que os 3 [[Kobolds]] iriam até os esgotos e mapear a área, enquanto [[O Grupo]] dava uma volta na cidade para conhecer melhor o território.
+Enquanto estavam passando por uma feira, alguém do passado de [[Aurélia]] a reconhece e se aproxima para falar com ela — afinal, [[Wolfenberg]] é a cidade natal de [[Aurélia]]. [[Eva]] pede ajuda a [[Aurélia]], pois as freiras do [[Orfanato de Wolfenberg]] onde [[Aurélia]] cresceu (mas não teve um passado muito bom e teve que fugir quando menor) estavam acordando marcadas com cortes e sem memórias da noite, e muitas crianças recentemente andam sumindo com a desculpa de que estão sendo adotadas. Durante essa conversa, [[Zaman]] saiu para fazer algo sem que ninguém percebesse e voltou como se nada tivesse acontecido. [[Eva]] desconfia e diz que a culpada de tudo é [[Sonia]], a chefe do [[Orfanato de Wolfenberg]].
 
-  
+[[O Grupo]] decide invadir o [[Orfanato de Wolfenberg]] no outro dia. O plano que combinamos com [[Eva]] era: Ela tiraria as crianças dizendo que vai passear com elas, e então [[O Grupo]] irá invadir para descobrir o que está acontecendo.
 
-Enquanto estavam passando por uma feira, alguém do passado de [[Aurélia]] a reconhece e se aproxima para falar com ela — afinal, [[Wolfenberg]] é a cidade natal de [[Aurélia]]. [[Eva]] pede ajuda a [[Aurélia]], pois as freiras do [[Orfanato]] onde [[Aurélia]] cresceu (mas não teve um passado muito bom e teve que fugir quando menor) estavam acordando marcadas com cortes e sem memórias da noite, e muitas crianças recentemente andam sumindo com a desculpa de que estão sendo adotadas. Durante essa conversa, [[Zaman]] saiu para fazer algo sem que ninguém percebesse e voltou como se nada tivesse acontecido. [[Eva]] desconfia e diz que a culpada de tudo é [[Sonia]], a chefe do [[Orfanato]].
+Depois de decidir o plano, eles resolvem ir para o esconderijo de [[Du, Dudu e Edu]] ver o mapa que eles tinham feito dos esgotos da cidade. Após um tempo esperando, os [[Kobolds]] chegam e mostram para [[O Grupo]] o mapa dos esgotos — um mapa que muitos não entenderam, mas que iriam usar mesmo assim porque era a única coisa que tinham como informação. Conversando um pouco, [[O Grupo]] decide que alguns iriam até o [[Orfanato de Wolfenberg]] para ver o que estava acontecendo à noite com as freiras.
 
-  
-
-[[O Grupo]] decide invadir o [[Orfanato]] no outro dia. O plano que combinamos com [[Eva]] era: Ela tiraria as crianças dizendo que vai passear com elas, e então [[O Grupo]] irá invadir para descobrir o que está acontecendo.
-
-  
-
-Depois de decidir o plano, eles resolvem ir para o esconderijo de [[Du, Dudu e Edu]] ver o mapa que eles tinham feito dos esgotos da cidade. Após um tempo esperando, os [[Kobolds]] chegam e mostram para [[O Grupo]] o mapa dos esgotos — um mapa que muitos não entenderam, mas que iriam usar mesmo assim porque era a única coisa que tinham como informação. Conversando um pouco, [[O Grupo]] decide que alguns iriam até o [[Orfanato]] para ver o que estava acontecendo à noite com as freiras.
-
-  
-
-[[Siivet]], [[Pesky]] e [[Demétrius]] partem em direção ao [[Orfanato]] para estudar o local. Chegando lá, os três fazem uma triangulação por fora, não achando nada demais — só um silêncio. [[Siivet]] então decide entrar para verificar se algo está errado. Ativando seu [[Detect Magic]], [[Siivet]] abre uma janela e entra de mansinho. Ele anda pelo corredor dos quartos até conseguir visão do hall do [[Orfanato]].
-
-  
+[[Siivet]], [[Pesky]] e [[Demétrius]] partem em direção ao [[Orfanato de Wolfenberg]] para estudar o local. Chegando lá, os três fazem uma triangulação por fora, não achando nada demais — só um silêncio. [[Siivet]] então decide entrar para verificar se algo está errado. Ativando seu [[Detect Magic]], [[Siivet]] abre uma janela e entra de mansinho. Ele anda pelo corredor dos quartos até conseguir visão do hall do [[Orfanato de Wolfenberg|orfanato]].
 
 Ali, no canto da parede, existia um contorno brilhante em formato de porta — era magia. Algo que ninguém nunca tinha visto antes. Infelizmente o tempo de [[Siivet]] estava chegando ao fim e, enquanto saía, uma criança o abordou. Como um bom [[Kenku]], [[Siivet]] imitou a voz da [[Eva]] e falou para a criança ir dormir. Com a criança fora do caminho, ele sai pela janela e vai em direção ao esconderijo dos [[Kobolds]] com seus companheiros.
 
-  
+Com todos reunidos, [[Siivet]] conta sobre a possível porta no hall do [[Orfanato de Wolfenberg]]. [[Aurélia]] confirma que nunca tinha visto aquilo, o que deixa todos mais preocupados. Com os planos discutidos e todos cansados, [[O Grupo]] resolve ir dormir. Mas algo acontece no meio da noite — [[Pesky]], que não estava dormindo, pega uma alma com sua mão. [[Zaman]] se mostra interessado nisso e os dois conversam. [[Zaman]] expressa suas opiniões dizendo que ela não poderia fazer aquilo e pede para que [[Pesky]] solte a alma.
 
-Com todos reunidos, [[Siivet]] conta sobre a possível porta no hall do [[Orfanato]]. [[Aurélia]] confirma que nunca tinha visto aquilo, o que deixa todos mais preocupados. Com os planos discutidos e todos cansados, [[O Grupo]] resolve ir dormir. Mas algo acontece no meio da noite — [[Pesky]], que não estava dormindo, pega uma [[alma]] com sua mão. [[Zaman]] se mostra interessado nisso e os dois conversam. [[Zaman]] expressa suas opiniões e pede para que [[Pesky]] solte a alma.
-
-  
-
-> *"Tudo o que morreu deve permanecer morto, por isso eu vou achar um jeito de te matar também"*
-
-  
+> *[[Zaman]] diz: "Tudo o que morreu deve permanecer morto, por isso eu vou achar um jeito de te matar também"*
 
 ---
 
-  
+Começando mais um dia na cidade de [[Wolfenberg]], [[O Grupo]] parte em direção a feira sem saber o que se passou a noite no esconderijo entre [[Zaman]] e [[Pesky]]. Chegando na feira, [[Eva]] aparece com as crianças prontas para sair da cidade. [[Siivet]] entrega uma [[Sending Stone]] para [[Eva]] para que ela possa contatar [[O Grupo]] assim que estiver longe o suficiente. [[Aurélia]] se despede de sua amiga e [[O Grupo]] segue para o [[Orfanato de Wolfenberg]].
 
-Começando mais um dia na cidade de [[Wolfenberg]], [[O Grupo]] parte em direção a feira sem saber o que se passou a noite no esconderijo. Chegando na feira, [[Eva]] aparece com as crianças prontas para sair da cidade. [[Siivet]] entrega uma [[Sending Stone]] para [[Eva]] para que ela possa contactar [[O Grupo]] assim que estiver longe o suficiente. [[Aurélia]] se despede de sua amiga e [[O Grupo]] segue para o [[Orfanato]].
-
-  
-
-Assim que chegam no [[Orfanato]], começam a colocar o plano em ação! [[Illunthar]] que é um [[Drakewarden]] começa a conversar com seu companheiro [[Tico]] (que ainda é um pequeno dragão) que o plano seria: ele entrar pela janela correndo pelo orfanato o mais rápido que ele pudesse ( [[Tico]] começa a acenar com a cabeça como quem estava entendendo, e mesmo no colo já começa a correr com suas patinhas em direção a janela) e com seu elemento de raio, com uma pequena nuvem de chuva em sua cabeça, e pequenos estalos de eletricidade por sua boca, sai correndo pelos corredores do orfanato, derrubando vasos de planta e fazendo muito barulho. [[O Grupo]] apenas escuta a gritaria das freiras que ainda estavam no local "-PEGA ELE!", então quando [[Tico]] retorna pela mesma janela que entrou, e as três freiras correndo atras dele, assim que [[Pesky]] que já havia deixado um feitiço pronto as avistou pela janela, colocou as freiras para dormir.
+Assim que chegam no [[Orfanato de Wolfenberg]], começam a colocar o plano em ação! [[Illunthar]] que é um [[Drakewarden]] começa a conversar com seu companheiro [[Tico]] (que ainda é um pequeno dragão) que o plano seria: ele entrar pela janela correndo pelo orfanato o mais rápido que ele pudesse ( [[Tico]] começa a acenar com a cabeça como quem estava entendendo, e mesmo no colo já começa a correr com suas patinhas em direção a janela) e com seu elemento de raio, com uma pequena nuvem de chuva em sua cabeça, e pequenos estalos de eletricidade por sua boca, sai correndo pelos corredores do orfanato, derrubando vasos de planta e fazendo muito barulho. [[O Grupo]] apenas escuta a gritaria das freiras que ainda estavam no local "-PEGA ELE!", então quando [[Tico]] retorna pela mesma janela que entrou, e as três freiras vem correndo atrás dele, e assim que [[Pesky]] que já havia deixado um feitiço pronto as avistou pela janela, colocou as três freiras para dormir.
 
   
 

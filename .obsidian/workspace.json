@@ -22,45 +22,17 @@
             }
           },
           {
-            "id": "a7e63094f76bddba",
+            "id": "0a3eaeb3059b0b7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/📁 06-Lore/7 Pecados Capitais.md",
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Pecados Capitais"
-            }
-          },
-          {
-            "id": "8baad4568f71322c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geral/📁 06-Lore/Bane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bane"
-            }
-          },
-          {
-            "id": "847d487a5f84aa3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geral/📁 05-Organizações/Fé dos Sete.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fé dos Sete"
+              "title": "Sem título"
             }
           }
         ]
@@ -120,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 265.5
   },
   "right": {
     "id": "67ae6b2f32477ae3",
@@ -227,13 +199,30 @@
   },
   "active": "b5202559aefb9549",
   "lastOpenFiles": [
-    "Geral/📁 06-Lore/7 Pecados Capitais.md",
+    "Sem título.md",
     "Geral/A muito e muito tempo em um mundo de Dungeons e Dragões.md",
-    "Geral/📁 06-Lore/Bane.md",
+    "Geral/📁 01-Personagens/Tico.md",
+    "Geral/📁 01-Personagens/📁 01.2 - Raças/Kenku.md",
+    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Sonia.md",
+    "Geral/📁 03-Lugares/Orfanato de Wolfenberg.md",
+    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Eva.md",
+    "Geral/📁 03-Lugares/Biblioteca de Tavrobel.md",
+    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Du, Dudu e Edu.md",
+    "Geral/📁 01-Personagens/📁 01.2 - Raças/Kobolds.md",
+    "Geral/📁 01-Personagens/📁 01.2 - Raças/Dragonborn.md",
+    "Geral/📁 01-Personagens/📁 01.2 - Raças",
+    "T01x006 — Um grupo unido e derrotado.md",
+    "Geral/📁 04-Itens/Anel Do Poder.md",
+    "Geral/📁 06-Lore/📁 06.4 - Conhecimento",
+    "Geral/📁 06-Lore/📁 06.3 - Visoes",
+    "Geral/📁 06-Lore/📁 06.2 - Objetos",
+    "Geral/📁 06-Lore/📁 06.2 - Objetos/Globo Dourado.md",
+    "Geral/📁 06-Lore/📁 06.3 - Visoes/7 Pecados Capitais.md",
+    "Geral/📁 06-Lore/📁 06.3 - Visoes/Bane.md",
     "Geral/📁 05-Organizações/Fé dos Sete.md",
     "Geral/📁 03-Lugares/Igreja da Fé dos Sete em Brumavale.md",
-    "Geral/📁 01-Personagens/📁 01.2 - NPCs/John.md",
-    "Geral/📁 01-Personagens/📁 01.2 - NPCs/Padre de Brumavale.md",
+    "Geral/📁 01-Personagens/📁 01.3 - NPCs/John.md",
+    "Geral/📁 01-Personagens/📁 01.3 - NPCs/Padre de Brumavale.md",
     "Geral/📁 03-Lugares/Igreja da Fé dos Sete em Wolfenberg.md",
     "Geral/📁 03-Lugares/Essos.md",
     "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/Nine Hell's.md",
@@ -241,27 +230,10 @@
     "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/Plano Mortal.md",
     "Geral/📁 06-Lore/📁 06.1 - Planos da Existência",
     "Geral/📁 06-Lore/📁 06.1 - Planos da Existência/Feywild.md",
-    "Geral/📁 06-Lore/Estatuas da Catedral.md",
-    "Geral/📁 04-Itens/Bag of Holding.md",
-    "Geral/📁 04-Itens/Relíquia Misteriosa.md",
-    "Geral/📁 03-Lugares/Brumavale.md",
-    "Geral/📁 04-Itens/Diário Misterioso.md",
-    "Geral/📁 06-Lore/Globo Dourado.md",
-    "Geral/📁 03-Lugares/Vila Misteriosa.md",
-    "Geral/📁 03-Lugares/Dungeon Espelhada.md",
-    "Geral/📁 02-Criaturas/Aranha Gigante.md",
-    "Geral/📁 02-Criaturas/Aranhas da Caverna.md",
-    "Geral/📁 07-Magias/Hold Person.md",
-    "Geral/📁 05-Organizações/O Grupo.md",
-    "Geral/📁 06-Lore/Palantyr.md",
     "Geral/📁 07-Magias",
-    "Geral/📁 01-Personagens/📁 01.2 - NPCs",
+    "Geral/📁 01-Personagens/📁 01.3 - NPCs",
     "Geral/📁 01-Personagens/📁 01.1 - Classes/Sem título",
     "Geral/📁 01-Personagens/📁 01.1 - Classes",
-    "Geral/📁 06-Lore",
-    "Geral/📁 05-Organizações",
-    "Geral/📁 04-Itens",
-    "Geral/📁 03-Lugares",
-    "Geral/📁 02-Criaturas"
+    "Geral/📁 06-Lore"
   ]
 }
