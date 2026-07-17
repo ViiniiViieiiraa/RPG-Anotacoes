@@ -27,7 +27,7 @@ Atravessando essa passagem, [[O Grupo]] encontra um corredor sem saída, até ch
 
 Dentro do portão, [[O Grupo]] se separa e tudo escurece. O [[Diário Misterioso]] do [[Siivet]] sai da [[Bag of Holding]], vai até o centro da sala escura e começa a passar as páginas. Ao mesmo tempo, uma nuvem passa pelo grupo os levando até uma visão de cima de [[Essos]]. Quando [[O Grupo]] entende o que está acontecendo, uma estrela de seis pontas é desenhada em [[Essos]] — e no centro da estrela está o sétimo ponto, que se encontra em uma ilha sem nada aparente no centro.
 
-Mais uma nuvem passa e os leva de volta à escuridão. O [[Diário Misterioso]] aparece mais uma vez e, enquanto as páginas são folheadas, algo é construído. Uma ilusão de uma igreja — [[O Grupo]] está dentro da [[Fé dos Sete]], mas as estátuas não são dos [[Fé dos Sete|7 deuses conhecidos]] e sim dos [[Bane|7 deuses perdidos]]. Em seu teto, o símbolo de [[Bane]] — uma mão segurando a luz emitindo feixes que representam [[Bane]] e seus 7 servos esquecidos como forma de estatuas destruídas.
+Mais uma nuvem passa e os leva de volta à escuridão. O [[Diário Misterioso]] aparece mais uma vez e, enquanto as páginas são folheadas, algo é construído. Uma ilusão de uma igreja — [[O Grupo]] está dentro da [[Fé dos Sete]], mas as estátuas não são dos [[Fé dos Sete|7 deuses conhecidos]] e sim dos [[Bane|7 deuses perdidos]]. Em seu teto, o símbolo de [[Bane]] — uma mão segurando a luz emitindo feixes que representam [[Bane]] e seus 7 servos esquecidos como forma de [[Estatuas Destruídas]].
 
 As estátuas se quebram e são engolidas por 7 vitrais que se mostram sendo de 7 animais diferentes. Cada um do grupo se aproximou de um vitral e se "conciliou" a um animal dos [[7 Pecados Capitais]]:
 
