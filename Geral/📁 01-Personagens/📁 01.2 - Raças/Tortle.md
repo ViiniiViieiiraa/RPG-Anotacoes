@@ -24,4 +24,4 @@ aliases: [Tortle, Tartaruga]
 
 ## ✨ Na Campanha
 
-[[Dave]] é um **Tortle**, o que explica seu faro afiado (usado repetidamente para rastrear itens e pessoas, como a [[Quarterstaff]] do [[Zaman]] em T01x006) e sua resiliência natural em combate. Durante a caçada da [[Bruxa Verde]] (T01x005), foi [[Dave]] quem desferiu o golpe final decisivo — arrancando a cabeça de [[Sonia]] com um machado. Ele também é perseguido misteriosamente por [[Crias Vampíricas]] e [[Vampiros]], por razões ainda não reveladas na campanha.
+[[Dave]] é um **Tortle**, o que explica seu faro afiado (usado repetidamente para rastrear itens e pessoas, como a [[Quarterstaff]] do [[Zaman]] em T01x006) e sua resiliência natural em combate. Durante a caçada da [[Bruxa Verde]] (T01x005), foi [[Dave]] quem desferiu o golpe final decisivo — arrancando a cabeça de [[Sonia]] com um machado. Ele também é perseguido misteriosamente por [[Crias Vampíricas]] e [[Vampiro]], por razões ainda não reveladas na campanha.

@@ -29,4 +29,4 @@ Ganha acesso a "Maldições de Sangue" — habilidades sobrenaturais ativadas ao
 
 ## ✨ Na Campanha
 
-[[Dave]] é um **Blood Hunter**, o que se encaixa perfeitamente com o fato de ele estar sendo caçado por [[Crias Vampíricas]] e [[Vampiros]] sem saber o motivo (mencionado em T01x005) — um gancho narrativo forte para a especialização em caça a criaturas sobrenaturais típica da classe. Seu faro apurado (usado para rastrear pistas ao longo da campanha) também reforça sua natureza de caçador nato.
+[[Dave]] é um **Blood Hunter**, o que se encaixa perfeitamente com o fato de ele estar sendo caçado por [[Crias Vampíricas]] e [[Vampiro]] sem saber o motivo (mencionado em T01x005) — um gancho narrativo forte para a especialização em caça a criaturas sobrenaturais típica da classe. Seu faro apurado (usado para rastrear pistas ao longo da campanha) também reforça sua natureza de caçador nato.
