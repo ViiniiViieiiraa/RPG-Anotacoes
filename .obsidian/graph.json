@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -15,10 +15,24 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#npc",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 6304930
+      }
+    },
+    {
+      "query": "tag:#local",
+      "color": {
+        "a": 1,
+        "rgb": 3571023
+      }
+    },
+    {
+      "query": "tag:#organizacao",
+      "color": {
+        "a": 1,
+        "rgb": 8529953
       }
     }
   ],
@@ -28,10 +42,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 11.4583333333333,
-  "linkStrength": 0.895833333333333,
-  "linkDistance": 250,
-  "scale": 0.5491791404109467,
-  "close": false
+  "centerStrength": 0.5,
+  "repelStrength": 8.4375,
+  "linkStrength": 0.5,
+  "linkDistance": 221,
+  "scale": 0.3917160054392086,
+  "close": true
 }

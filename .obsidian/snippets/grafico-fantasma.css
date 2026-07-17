@@ -1,0 +1,3 @@
+.theme-dark, .theme-light {
+  --graph-node-unresolved: #FF5555; /* Cor das bolinhas (Ex: Vermelho vivo) */
+}
