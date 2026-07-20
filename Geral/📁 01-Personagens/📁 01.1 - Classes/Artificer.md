@@ -23,7 +23,7 @@ aliases: [Artificer, Artífice]
 O Artífice consegue infundir objetos pequenos com truques mágicos simples (luz, som, cheiro, imagem sensorial), usando isso para criar efeitos criativos e não-letais.
 
 ### Nível 1 — Conjuração
-Assim como outras classes conjuradoras, o Artífice prepara magias da lista de [[Magias|magias de Artífice]] usando Inteligência como atributo-chave.
+Assim como outras classes conjuradoras, o Artífice prepara magias da lista de magias de Artífice usando Inteligência como atributo-chave.
 
 ### Nível 2 — Infuse Item (Infundir Item)
 > [!info] Marco importante

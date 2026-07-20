@@ -12,7 +12,7 @@ aliases: [Drakewarden, Guardião Dragão]
 
 | Atributo | Detalhe |
 |---|---|
-| Classe Base | [[Patrulheiro (Ranger)]] |
+| Classe Base | [[Ranger]] |
 | Disponível a partir de | Nível 3 |
 
 ### Nível 3 — Draconic Gift & Drake Companion

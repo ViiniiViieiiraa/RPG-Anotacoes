@@ -7,7 +7,7 @@ aliases: [Illunthar]
 
 > [!info] Ficha Básica
 > **Raça:** [[Dragonborn]] Metálico (Fizban's) — Branco/Prata
-> **Classe:** [[Patrulheiro (Ranger)]] ([[Drakewarden]])
+> **Classe:** [[Ranger]] ([[Drakewarden]])
 > **Nível:** 4
 > **Equipamento Principal:** [[Greatsword]], Scale Mail, Long Bow
 > **Companheiro:** [[Tico]]

@@ -1,7 +1,7 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -11,28 +11,21 @@
       "query": "tag:#personagem  ",
       "color": {
         "a": 1,
-        "rgb": 3056844
-      }
-    },
-    {
-      "query": "tag:#npc",
-      "color": {
-        "a": 1,
-        "rgb": 6304930
+        "rgb": 4050943
       }
     },
     {
       "query": "tag:#local",
       "color": {
         "a": 1,
-        "rgb": 3571023
+        "rgb": 12833605
       }
     },
     {
-      "query": "tag:#organizacao",
+      "query": "file:Sumário",
       "color": {
         "a": 1,
-        "rgb": 8529953
+        "rgb": 14111456
       }
     }
   ],
@@ -46,6 +39,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 0.5,
   "linkDistance": 221,
-  "scale": 0.3917160054392086,
+  "scale": 0.279401414996263,
   "close": true
 }
