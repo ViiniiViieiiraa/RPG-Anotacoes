@@ -1,6 +1,13 @@
 ---
-tags: [raça, metamorph, homebrew, changeling]
-aliases: [Metamorph, Changeling]
+tags:
+  - raça
+  - metamorph
+  - homebrew
+  - changeling
+aliases:
+  - Metamorph
+  - Changeling
+  - Metamorfo
 ---
 
 # Metamorph

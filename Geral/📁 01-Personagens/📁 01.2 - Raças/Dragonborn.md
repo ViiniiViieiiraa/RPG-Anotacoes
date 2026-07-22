@@ -1,6 +1,11 @@
 ---
-tags: [raça, dragonborn]
-aliases: [Dragonborn, Draconato]
+tags:
+  - raça
+  - dragonborn
+  - draconato
+aliases:
+  - Dragonborn
+  - Draconato
 ---
 
 # Dragonborn (Draconato)

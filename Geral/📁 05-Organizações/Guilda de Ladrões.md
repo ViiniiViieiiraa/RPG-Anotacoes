@@ -1,1 +1,0 @@
-[[Guilda de Ladrões]]

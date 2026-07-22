@@ -31,9 +31,9 @@ Já o [[O Grupo|outro grupo]] ficou na carroça de prontidão, até que escutara
 
 Durante a luta, uma [[Warlock]] que faz parte do misterioso culto dos [[Chapéus de Aba]] se infiltrou dentro da carroça e usou uma [[Relíquia Misteriosa]] para roubar as propriedades mágicas do [[Anel Do Poder]], fazendo-o assim perder todo o seu poder.
 
-Por sorte, [[O Grupo]] conseguiu capturar um dos atacantes e, depois de uma longa sessão de interrogatório, o capturado disse frases estranhas em um idioma que ninguém ali conhecia:
+Por sorte, [[O Grupo]] conseguiu capturar um dos atacantes e, depois de uma longa sessão de "interrogatório", o capturado disse frases estranhas em um idioma que ninguém ali conhecia:
 
-- [[Idioma Estranho|Dagor Dagorath]]
+- [[Dagor Dagorath]]
 
 - [[Idioma Estranho|Gujat Live Avhe Goth ro Shadow!]]
 

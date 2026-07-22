@@ -1,1 +1,2 @@
 Diário misterioso do [[Siivet]].
+Quando estávamos tendo as visões dentro da [[Dungeon Espelhada]], diz que [[Diário Misterioso]] se tornou [[Dagor Dagorath]], porem não sabemos oque é isso, mas depois de analisar bem a historia, percebi que o inimigo capturado no ataque da carroça tinha dito essas mesmas palavras, e isso foi documentado em [[Idioma Estranho]].

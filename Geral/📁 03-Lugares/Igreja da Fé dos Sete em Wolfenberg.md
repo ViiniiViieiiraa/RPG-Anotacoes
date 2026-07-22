@@ -5,6 +5,9 @@ aliases: [Igreja da Fé dos Sete em Wolfenberg]
 
 # Igreja da Fé dos Sete em Wolfenberg
 
+## 🏛️ Organização
+Igreja comandada pela **[[Fé dos Sete]]**.
+
 ## 📜 Descrição
 
 Ao contrário de sua contraparte pacífica em [[Brumavale]], a Igreja da Fé dos Sete em **[[Wolfenberg]]** esconde, em seus **níveis baixos**, uma estrutura de poder muito mais sinistra — corredores com portas nomeadas em homenagem a diferentes deuses (**[[Shar]]**, **[[Selune]]**, **[[Bhaal]]**, **[[Bane]]**, **[[Myrkul]]** e **[[Lathander]]**), culminando em uma sala central reservada ao líder do local. O acesso a essas áreas exige um certo nível de "reconhecimento" — e, curiosamente, pode ser obtido sendo **vendido** como se fosse mercadoria.

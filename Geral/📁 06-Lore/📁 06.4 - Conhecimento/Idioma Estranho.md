@@ -2,6 +2,6 @@ Um idioma desconhecido que foi falado por um dos inimigos que atacou a carroça 
 
 Frases ditas:
 
-Dagor Dagorath.
+[[Dagor Dagorath]].
 Gujat Live Avhe Goth ro Shadow!
 Ujaht Lith Aga ragoth ushalou. (sombra / longa / vida)

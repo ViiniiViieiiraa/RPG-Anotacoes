@@ -5,6 +5,9 @@ aliases: [Igreja da Fé dos Sete em Brumavale]
 
 # Igreja da Fé dos Sete em Brumavale
 
+## 🏛️ Organização
+Igreja comandada pela **[[Fé dos Sete]]**.
+
 ## 📜 Descrição
 
 Igreja dedicada à **[[Fé dos Sete]]**, localizada em [[Brumavale]]. Encontrada **vazia** pelo grupo logo no início da campanha, ela guardava um segredo importante escondido em seu interior.

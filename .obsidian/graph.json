@@ -18,7 +18,7 @@
       "query": "tag:#local",
       "color": {
         "a": 1,
-        "rgb": 12833605
+        "rgb": 16767314
       }
     },
     {
@@ -26,6 +26,20 @@
       "color": {
         "a": 1,
         "rgb": 14111456
+      }
+    },
+    {
+      "query": "file:Teorias",
+      "color": {
+        "a": 1,
+        "rgb": 14111456
+      }
+    },
+    {
+      "query": "path:\"Geral/📁 02-Criaturas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15797774
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 0.5,
   "linkDistance": 221,
-  "scale": 0.279401414996263,
+  "scale": 0.4505081176757793,
   "close": true
 }

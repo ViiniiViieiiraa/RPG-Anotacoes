@@ -1,1 +1,0 @@
-[[Amanhecer Negro]]

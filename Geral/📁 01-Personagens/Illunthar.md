@@ -1,6 +1,12 @@
 ---
-tags: [personagem, jogador, dragonborn, ranger, drakewarden]
-aliases: [Illunthar]
+tags:
+  - personagem
+  - jogador
+  - dragonborn
+  - ranger
+  - drakewarden
+aliases:
+  - Illunthar
 ---
 
 # Illunthar
