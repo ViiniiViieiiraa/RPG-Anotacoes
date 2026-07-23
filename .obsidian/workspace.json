@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "5d34e96790723442",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
             "id": "ccdf76141a0db9de",
             "type": "leaf",
             "state": {
@@ -49,7 +59,8 @@
               "title": "T01x004 — Visões do Vazio parte 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +222,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "12893c8a24f41c2f",
+  "active": "5d34e96790723442",
   "lastOpenFiles": [
-    "Geral/📁 03-Lugares/Igreja da Fé dos Sete em Brumavale.md",
     "Geral/📁 03-Lugares/Igreja da Fé dos Sete em Wolfenberg.md",
+    "Geral/📁 03-Lugares/Igreja da Fé dos Sete em Brumavale.md",
     "Geral/Teorias.md",
     "Geral/📁 02-Criaturas/Slime.md",
     "Geral/📁 07-Magias/Summon Drake.md",
