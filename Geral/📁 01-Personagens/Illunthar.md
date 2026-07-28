@@ -1,101 +1,57 @@
 ---
-tags:
-  - personagem
-  - jogador
-  - dragonborn
-  - ranger
-  - drakewarden
-aliases:
-  - Illunthar
+tags: [personagem, jogador, dragonborn, ranger, drakewarden]
+aliases: [Illunthar]
 ---
-
 # Illunthar
 
-> [!info] Ficha Básica
+> [!info] Ficha Resumida
 > **Raça:** [[Dragonborn]] Metálico (Fizban's) — Branco/Prata
-> **Classe:** [[Ranger]] ([[Drakewarden]])
-> **Nível:** 4
-> **Equipamento Principal:** [[Greatsword]], Scale Mail, Long Bow
+> **Classe:** [[Ranger]] 4 ([[Drakewarden]])
 > **Companheiro:** [[Tico]]
+> **Build completa (números, combos, equipamento):** [[Illunthar Drakewarden Greatsword]]
 
 ## 🐉 Identidade
 
 > [!quote]
-> Um caçador de recompensas que não se esconde — porque para ele, chegar anunciando é uma questão de honra.
+> Um caçador de recompensas que não se esconde — porque para ele, chegar anunciado é uma questão de honra.
 
 Illunthar é um **Dragonborn Metálico** (classificação de *Fizban's Treasury of Dragons*), de coloração **branca e prata**, ligado ao elemento **gelo**. Atua como **caçador de recompensas** e é um **colecionador de troféus** — guarda itens de inimigos derrotados como prova e lembrança de suas vitórias.
 
 Diferente do estereótipo furtivo de um Patrulheiro, Illunthar **não pratica stealth** em suas caçadas: acredita que anunciar sua chegada é mais honroso do que emboscar por trás. Essa filosofia está refletida mecanicamente em sua desvantagem em Furtividade por conta da Scale Mail — sua presença é, propositalmente, impossível de ignorar.
 
-## 📊 Atributos
+## 🎨 Aparência
 
-| Atributo | Valor | Modificador | Salvaguarda |
-|---|---|---|---|
-| Força | 20 | +5 | **+7** *(proficiente)* |
-| Destreza | 15 | +2 | **+4** *(proficiente)* |
-| Constituição | 17 | +3 | +3 |
-| Inteligência | 10 | +0 | +0 |
-| Sabedoria | 14 | +2 | +2 |
-| Carisma | 11 | +0 | +0 |
+- Escamas em tons de **branco e prata** (Dragonborn Metálico).
+- Veste **Scale Mail** — armadura visivelmente pesada, sem qualquer tentativa de disfarce ou leveza.
+- Carrega um **Greatsword** de forma ostensiva, como uma declaração de intenção.
+- Como colecionador, provavelmente carrega **troféus visíveis** de caçadas anteriores (itens, marcas, ou peças de inimigos derrotados) — bom gancho para detalhar futuramente.
 
-## ⚔️ Combate
+> [!tip] Espaço para expandir
+> Ainda não há descrição física detalhada (altura, build corporal, marcas específicas, sotaque, maneirismos). Preencher conforme for definindo em jogo.
 
-| Estatística | Valor |
-|---|---|
-| Classe de Armadura (CA) | 17 (Scale Mail — desvantagem em Furtividade) |
-| Pontos de Vida | 40 |
-| Dados de Vida | 4d10+3 |
-| Deslocamento | 9m (30 pés) |
-| Iniciativa | +2 |
-| Bônus de Proficiência | +2 |
-| Percepção Passiva | 16 |
+## 🧭 Personalidade e Filosofia
 
-### Ataques
-- **[[Greatsword]]:** +7 para acertar (2d6 cortante + Força)
-- Com **Great Weapon Mastery**: -5 no acerto (+2 total) / +10 de dano
+- **Caçador de recompensas** — vê a profissão como um código de honra, não apenas um trabalho.
+- **Colecionador de troféus** — guarda itens de inimigos vencidos como prova de vitória, não por ganância.
+- **Anti-furtivo por princípio** — anunciar sua chegada é mais importante que vencer com vantagem tática de surpresa. Prefere o confronto direto e honrado.
+- Fluente em várias línguas (incluindo Subcomum e Silvestre), sugerindo histórico de viagens e contatos em múltiplos ambientes — reforçado pela feature **Ear to the Ground**, que lhe dá um contato de informações em qualquer cidade visitada.
 
-- **Combo**: +2 para acertar (2d6 cortante + 5 Força + 10 GWM + 1d6 Hunters Mark + 1d6 **[[Infused Strikes]]** )
+## 🎯 Perícias de Destaque (contexto de personagem)
 
-### Sopro Dracônico (Gelo)
-Área em cone. Criaturas atingidas fazem um teste de resistência de Destreza (**CD 13**): falha = **1d10 de dano de frio**; sucesso = metade do dano.
-
-> [!info] Resistência Elemental
-> Por sua ascendência dracônica de gelo, Illunthar possui **resistência a dano de frio**.
-
-## 🎯 Perícias (Proficiências)
-
-- Atletismo
-- Enganação (Deception)
-- Intuição (Insight)
-- Persuasão
-- **Percepção** — +6
+- **Atletismo** — força física notável, condizente com sua build.
+- **Enganação (Deception)** e **Persuasão** — apesar do estilo "sem disfarces" em combate, sabe negociar e manipular situações sociais quando necessário (viu-se isso em Wolfenberg).
+- **Intuição (Insight)** — bom em ler situações e pessoas.
+- **Percepção** (+6, destaque) — sempre atento ao ambiente, coerente com o instinto de caçador.
 
 ## 🗣️ Idiomas
 
 Comum, Élfico, Anão, Silvestre (Sylvan), Subcomum (Undercommon), Dracônico
 
-## ✨ Talentos (Feats)
+## 🐲 Vínculo com Tico
 
-- **Great Weapon Mastery (GWM):** permite abrir mão de precisão por dano bruto com armas pesadas; também concede ataque bônus ao derrubar uma criatura ou tirar um crítico.
-- **Favored Foe:** marca um inimigo para causar dano extra ao acertá-lo, sem gastar ação (substitui/evolui o conceito clássico de Hunter's Mark do Patrulheiro).
+Illunthar é vinculado a **[[Tico]]**, seu companheiro dracozinho, através da subclasse [[Drakewarden]]. O vínculo é mais que tático — é uma parceria de caça. Illunthar já demonstrou confiar em Tico para tarefas de distração e reconhecimento (como em T01x005), além de usá-lo ativamente em combate.
 
-## 🔮 Magias e Habilidades Especiais
-
-| Magia/Habilidade | Tipo |
-|---|---|
-| [[Hunter's Mark]] | Magia de Patrulheiro |
-| [[Absorb Elements]] | Magia de Patrulheiro |
-| [[Goodberry]] | Magia de Patrulheiro |
-| [[Thaumaturgy]] | Truque (via [[Drakewarden]]) |
-| [[Summon Drake]] | Magia de Drakewarden — vínculo com [[Tico]] |
-
-**Espaços de Magia:** 3
-
-**Speak with Animals:** Illunthar também possui a habilidade de se comunicar com animais, reforçando seu perfil de caçador conectado à natureza.
-
-## 🐲 Vínculo Dracônico
-
-Illunthar é um [[Drakewarden]] vinculado a **[[Tico]]**, seu companheiro dracozinho elemental, ainda em estágio inicial de crescimento. Já demonstrou usar essa parceria taticamente em combate — incluindo a habilidade [[Infused Strikes]] de Tico.
+*(Detalhes mecânicos completos do vínculo, incluindo o statblock de Tico, estão em [[Illunthar Drakewarden Greatsword]] e na nota individual [[Tico]].)*
 
 ## 📖 Linha do Tempo na Campanha
 
